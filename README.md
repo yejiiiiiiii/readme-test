@@ -33,3 +33,9 @@ readme 작성방법
 - [x] 체크리스트 2
 
 ### 이미지 넣기
+![Image](https://github.com/user-attachments/assets/7059f3f4-effb-4377-86b3-4736cb99884d)
+<img src="https://github.com/user-attachments/assets/7059f3f4-effb-4377-86b3-4736cb99884d" style="width: 500px" />
+
+### 링크 적용
+https://github.com/yejiiiiiiii/readme-test/edit/main/README.md
+- [나의깃허브연결](https://github.com/yejiiiiiiii/readme-test/edit/main/README.md).
